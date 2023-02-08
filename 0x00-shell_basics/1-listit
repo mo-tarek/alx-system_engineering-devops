@@ -1,0 +1,2 @@
+#!/bin/bash
+ls for listing a directory or file [ls 0-current_working_directory]
