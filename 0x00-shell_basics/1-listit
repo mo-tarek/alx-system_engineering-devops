@@ -1,2 +1,5 @@
 #!/bin/bash
 ls
+[master 4d3d17c] 2nd task
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+ mode change 100755 => 100644 0x00-shell_basics/1-listit
